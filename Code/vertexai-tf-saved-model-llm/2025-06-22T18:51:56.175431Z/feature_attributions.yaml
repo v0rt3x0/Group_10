@@ -1,0 +1,4 @@
+type: object
+properties:
+  path_to_img:
+    type: number
